@@ -1,7 +1,7 @@
 
 # Streamlit dependencies
 import streamlit as st
-import joblib,os
+
 # Set the page title and icon
 st.set_page_config(page_title="Kamogelo's Portfolio", page_icon="computer", layout="wide")
 
