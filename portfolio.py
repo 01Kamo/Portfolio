@@ -345,9 +345,13 @@ def main():
    <strong>Sand Technologies</strong><br />
    Data Science Intern(September 2024 - Present)<br />
    - Collaborating on the development and deployment of machine learning models to solve real-world business problems.
+   
    - Conducting data cleaning, preprocessing, and exploratory data analysis to uncover key insights and trends.
+   
    - Leveraging Python, MySQL, and PowerBI for data wrangling, statistical analysis, and visualization of complex datasets.
+   
    - Implementing predictive analytics and statistical modeling to support data-driven decision-making.
+   
    -  Contributing to the automation of data pipelines and optimization of machine learning workflows.
    
    </div>
