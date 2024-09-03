@@ -298,16 +298,14 @@ def main():
                 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdM_gXMqMhW48YXpcWM4OZ5wCG2uT4EWmTKg&s alt="Explore AI Academy Logo" />  
                 <div>
                     <strong>Explore AI Academy</strong><br />
-                    Data Science<br />
-		    - Specialized in advanced data science techniques and methodologies.
+                    Data Science<br /> - Specialized in advanced data science techniques and methodologies.
                 </div>
             </div>
             <div class="education-item">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQa-wC2-6b6dHstqnvpTLgfC0b4aZUpjkrw&s" alt="North West University Logo" />  
                 <div>
                     <strong>North West University</strong><br />
-                    BSc in Environmental Sciences with Chemistry and Geography<br />
-		    - Developed a strong foundation in scientific methods and data analysis through interdisciplinary studies.
+                    BSc in Environmental Sciences with Chemistry and Geography<br /> - Developed a strong foundation in scientific methods and data analysis through interdisciplinary studies.
                 </div>
             </div>
         </div>
