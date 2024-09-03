@@ -348,7 +348,8 @@ def main():
    - Conducting data cleaning, preprocessing, and exploratory data analysis to uncover key insights and trends.
    - Leveraging Python, MySQL, and PowerBI for data wrangling, statistical analysis, and visualization of complex datasets.
    - Implementing predictive analytics and statistical modeling to support data-driven decision-making.
-   - Contributing to the automation of data pipelines and optimization of machine learning workflows.
+   -  Contributing to the automation of data pipelines and optimization of machine learning workflows.
+   
    </div>
    </div>
    </div>
