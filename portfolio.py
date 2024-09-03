@@ -299,8 +299,7 @@ def main():
                 <div>
                     <strong>Explore AI Academy</strong><br />
                     Data Science<br />
-		    
-                    -Specialized in advanced data science techniques and methodologies.
+		    - Specialized in advanced data science techniques and methodologies.
                 </div>
             </div>
             <div class="education-item">
@@ -308,8 +307,7 @@ def main():
                 <div>
                     <strong>North West University</strong><br />
                     BSc in Environmental Sciences with Chemistry and Geography<br />
-		    
-                    -Developed a strong foundation in scientific methods and data analysis through interdisciplinary studies.
+		    - Developed a strong foundation in scientific methods and data analysis through interdisciplinary studies.
                 </div>
             </div>
         </div>
@@ -346,14 +344,13 @@ def main():
    <div>
    <strong>Sand Technologies</strong><br />
    Data Science Intern(September 2024 - Present)<br />
+   - Collaborating on the development and deployment of machine learning models to solve real-world business problems.
    
-   -Collaborating on the development and deployment of machine learning models to solve real-world business problems.
+   - Conducting data cleaning, preprocessing, and exploratory data analysis to uncover key insights and trends.
    
-   -Conducting data cleaning, preprocessing, and exploratory data analysis to uncover key insights and trends.
+   - Leveraging Python, MySQL, and PowerBI for data wrangling, statistical analysis, and visualization of complex datasets.
    
-   -Leveraging Python, MySQL, and PowerBI for data wrangling, statistical analysis, and visualization of complex datasets.
-   
-   -Implementing predictive analytics and statistical modeling to support data-driven decision-making.
+   - Implementing predictive analytics and statistical modeling to support data-driven decision-making.
    
    - Contributing to the automation of data pipelines and optimization of machine learning workflows.
    
