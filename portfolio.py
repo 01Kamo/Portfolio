@@ -426,7 +426,7 @@ preprocessing, model development, and insight generation.
                         button_key="anime_project_button")
 
 	# Project 4: Height Segmentation Model
-        col4, col5 = st.columns(2)
+        
         with col4:
             project_box("https://media.istockphoto.com/id/1290305231/photo/network-connection-telecommunication-to-the-city.jpg?s=612x612&w=0&k=20&c=3fhCsP6fDwIfFNopcMqR3SMGKHWtccxnYq9rE_nwDkY=",
                         "Height Segmentation Model",
