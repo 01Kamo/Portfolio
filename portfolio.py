@@ -137,15 +137,19 @@ def main():
         # Key Skills
         st.markdown("### Core Competencies")
         st.markdown("""
-        - **Machine Learning:** Skilled in developing predictive models and classification systems.
-        - **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
-        - **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
-        - **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
-	- **Deep Learning:** Proficient in designing and training neural networks using TensorFlow.
-        - **Image Processing:** Experienced in segmentation, object detection, and height estimation tasks using convolutional neural networks (CNNs).
-        - **Cloud Computing:** Familiarity with cloud platforms such as AWS for model deployment and data management.
-        - **Geospatial Analytics:** Experienced in working with georeferenced satellite images and LiDAR data for spatial modeling and analysis.
-        - **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
+        -  **Machine Learning:** Skilled in developing predictive models and classification systems.
+        -  **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
+        -  **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
+        -  **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
+	
+	-  **Deep Learning:** Proficient in designing and training neural networks using TensorFlow.
+ 
+        -  **Image Processing:** Experienced in segmentation, object detection, and height estimation tasks using convolutional neural networks (CNNs).
+	
+        -  **Cloud Computing:** Familiarity with cloud platforms such as AWS for model deployment and data management.
+	
+        -  **Geospatial Analytics:** Experienced in working with georeferenced satellite images and LiDAR data for spatial modeling and analysis.
+        -  **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
         
         """)
         
@@ -344,7 +348,8 @@ def main():
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNZ-oA857LBER7nEhPzLXCmLyIfHwbhRV4w&s" alt="Sand Technologies Logo" />
    <div>
    <strong>Sand Technologies</strong><br />
-   Data Science Intern(September 2024 - November 2024)<br /> - Collaborated with a distributed team to tackle real-world data science challenges, utilizing tools such as
+   Data Science Intern(September 2024 - November 2024)<br />
+   -  Collaborated with a distributed team to tackle real-world data science challenges, utilizing tools such as
 Discord, Zoom, and cloud platforms for effective communication and teamwork.
 
    - Contributed to the automation of data processes, which has led to improved efficiency and streamlined
