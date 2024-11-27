@@ -138,24 +138,15 @@ def main():
         st.markdown("### Core Competencies")
         st.markdown("""
         
-	-  **Machine Learning:** Skilled in developing predictive models and classification systems.
-        
-	-  **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
-        
-	-  **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
-       
-	-  **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
-	
-	-  **Deep Learning:** Proficient in designing and training neural networks using TensorFlow.
- 
-        -  **Image Processing:** Experienced in segmentation, object detection, and height estimation tasks using convolutional neural networks (CNNs).
-	
-        -  **Cloud Computing:** Familiarity with cloud platforms such as AWS for model deployment and data management.
-	
-        -  **Geospatial Analytics:** Experienced in working with georeferenced satellite images and LiDAR data for spatial modeling and analysis.
-        
-	-  **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
-        
+	- **Machine Learning:** Skilled in developing predictive models and classification systems.
+        - **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
+        - **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
+        - **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
+	- **Deep Learning:** Proficient in designing and training neural networks using TensorFlow.
+        - **Image Processing:** Experienced in segmentation, object detection, and height estimation tasks using convolutional neural networks (CNNs).
+	- **Cloud Computing:** Familiarity with cloud platforms such as AWS for model deployment and data management.
+	- **Geospatial Analytics:** Experienced in working with georeferenced satellite images and LiDAR data for spatial modeling and analysis.
+        - **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
         """)
         
        
