@@ -137,10 +137,14 @@ def main():
         # Key Skills
         st.markdown("### Core Competencies")
         st.markdown("""
-        -  **Machine Learning:** Skilled in developing predictive models and classification systems.
-        -  **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
-        -  **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
-        -  **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
+        
+	-  **Machine Learning:** Skilled in developing predictive models and classification systems.
+        
+	-  **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
+        
+	-  **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
+       
+	-  **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
 	
 	-  **Deep Learning:** Proficient in designing and training neural networks using TensorFlow.
  
@@ -149,7 +153,8 @@ def main():
         -  **Cloud Computing:** Familiarity with cloud platforms such as AWS for model deployment and data management.
 	
         -  **Geospatial Analytics:** Experienced in working with georeferenced satellite images and LiDAR data for spatial modeling and analysis.
-        -  **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
+        
+	-  **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
         
         """)
         
@@ -180,7 +185,7 @@ def main():
         st.write("""
 
 
-    I'm a dedicated Data Scientist with a deep passion for unraveling the complexities of data to drive innovation and efficiency. My journey into data science began with a fascination for how data can be leveraged to solve real-world problems, leading me to explore various methodologies and tools that have shaped my career.
+    I am a dedicated Data Scientist with a deep passion for unraveling the complexities of data to drive innovation and efficiency. My journey into data science began with a fascination for how data can be leveraged to solve real-world problems, leading me to explore various methodologies and tools that have shaped my career.
     """)
         st.subheader("My Passion")
         st.write("""
@@ -349,6 +354,7 @@ def main():
    <div>
    <strong>Sand Technologies</strong><br />
    Data Science Intern(September 2024 - November 2024)<br />
+   
    -  Collaborated with a distributed team to tackle real-world data science challenges, utilizing tools such as
 Discord, Zoom, and cloud platforms for effective communication and teamwork.
 
