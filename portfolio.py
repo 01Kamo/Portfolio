@@ -132,7 +132,7 @@ def main():
         st.subheader("Data Scientist | Machine Learning Enthusiast")
         # Brief Introduction with text styling
         st.write("""
-    **Data Scientist** with a robust foundation in Python programming, machine learning, and data analysis, complemented by hands-on experience in developing predictive models and classification systems. My academic background in Environmental Sciences with Chemistry and Geography from North West University, combined with specialized training from Explore AI Academy, has equipped me with the skills to tackle complex data challenges effectively.
+    **Data Scientist** with proven experience in developing and implementing machine learning models, data preprocessing, and advanced data analysis. Proficient in Python programming and skilled in building predictive models, classification systems, and segmentation frameworks. My hands-on experience spans projects in telecommunications and cloud-based solutions. With an academic background in Environmental Sciences (Chemistry and Geography) from North West University and specialized training from Explore AI Academy, I bring a strong analytical mindset and technical expertise to solve complex real-world problems effectively.
     """)
         # Key Skills
         st.markdown("### Core Competencies")
@@ -141,12 +141,15 @@ def main():
         - **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
         - **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
         - **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
+	- **Deep Learning:** Proficient in designing and training neural networks using TensorFlow.
+        - **Image Processing:** Experienced in segmentation, object detection, and height estimation tasks using convolutional neural networks (CNNs).
+        - **Cloud Computing:** Familiarity with cloud platforms such as AWS for model deployment and data management.
+        - **Geospatial Analytics:** Experienced in working with georeferenced satellite images and LiDAR data for spatial modeling and analysis.
+        - **Collaboration and Tools:** Experience with Git for version control and Jupyter Notebooks for collaborative development.
+        
         """)
         
-        # Value Proposition
-        st.write("""
-        I am dedicated to using data to solve complex problems and help organizations make data-driven decisions. My analytical mindset, combined with a deep understanding of data science methodologies, allows me to deliver high-impact solutions that drive business value.
-""")
+       
         
         # Add a call-to-action or a quote to inspire or engage visitors
         st.markdown(
@@ -341,15 +344,15 @@ def main():
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNZ-oA857LBER7nEhPzLXCmLyIfHwbhRV4w&s" alt="Sand Technologies Logo" />
    <div>
    <strong>Sand Technologies</strong><br />
-   Data Science Intern(September 2024 - November 2024)<br /> - Collaborating with a distributed team to tackle real-world data science challenges, utilizing tools such as
+   Data Science Intern(September 2024 - November 2024)<br /> - Collaborated with a distributed team to tackle real-world data science challenges, utilizing tools such as
 Discord, Zoom, and cloud platforms for effective communication and teamwork.
 
-   - Contributing to the automation of data processes, which has led to improved efficiency and streamlined
+   - Contributed to the automation of data processes, which has led to improved efficiency and streamlined
 workflows through the use of cloud-based technologies.
-   - Collaborating with data engineers and stakeholders to develop solutions, share insights, and refine
+   - Collaborated with data engineers and stakeholders to develop solutions, share insights, and refine
 machine learning models.
-   -Utilize version control (Git) to manage code across remote teams.
-   - Applying Python, and machine learning libraries (including TensorFlow and scikit-learn) for data
+   -Utilized version control (Git) to manage code across remote teams.
+   - Applied Python, and machine learning libraries (including TensorFlow and scikit-learn) for data
 preprocessing, model development, and insight generation.
    
    
@@ -359,8 +362,8 @@ preprocessing, model development, and insight generation.
 """, unsafe_allow_html=True)
         st.subheader("Looking Ahead")
         st.write("""
-        I am eager to collaborate with forward-thinking teams and contribute to innovative projects that push the boundaries of data science and AI. My goal is to apply my skills and knowledge to make a meaningful impact and drive organizational success through data-driven decision-making.
-        """)
+         I am passionate about collaborating with dynamic teams to tackle innovative projects that leverage data science and AI. My ambition is to contribute to cutting-edge solutions that drive impact, enhance decision-making, and create value. With a focus on continuous learning and applying my expertise, I aim to help organizations unlock the full potential of their data and achieve strategic goals.
+      """)
         
         
         pass
@@ -370,11 +373,10 @@ preprocessing, model development, and insight generation.
     # Build out the projects page
     elif selected_option == "Projects":
         # Define the project_box function
-        def project_box(image_path, title, role, institution, objective, techniques, results, github_link, app_link=None, button_key=None):
-           st.image(image_path, use_column_width=True)
+        def project_box(image_path, title, role, objective, techniques, results, github_link, app_link=None, button_key=None):
+           st.image(image_path, use_container_width=True)
            st.subheader(title)
            st.write(f"**Role:** {role}")
-           st.write(f"**Academic Institution:** {institution}")
            st.write(f"**Objective:** {objective}")
            st.write(f"**Techniques Used:** {techniques}")
            st.write(f"**Results:** {results}")
@@ -392,7 +394,6 @@ preprocessing, model development, and insight generation.
             project_box("https://media.istockphoto.com/id/1304758575/photo/reduction-of-the-amount-of-co2-emissions-concept-image-with-co2-icon-text-and-tree-shape-in.jpg?s=612x612&w=0&k=20&c=OO0Jl_EhAuRUPQSCqpxcKEr4CFQ_WNJ-J68w8IG0JbY=",
                         "Predicting CO2 Emissions from the Agri-food Sector", 
                         "Team Leader, Data Scientist", 
-                        "Explore AI Academy", 
                         "Developed predictive models to forecast CO2 emissions from agricultural activities and identify key emission sources.", 
                         "Regression analysis, feature engineering, Python (scikit-learn, pandas).", 
                         "Developed three regression models and provided actionable insights for reducing emissions and recommendations for sustainable agricultural practices.", 
@@ -405,7 +406,6 @@ preprocessing, model development, and insight generation.
             project_box("https://media.istockphoto.com/id/1368872054/vector/online-news-search-and-reading-news-updates-news-websites-information-on-newspapers-public.jpg?s=612x612&w=0&k=20&c=lnqRsfz6XqoOSHNMXCazLduB5RELyp9e-M0UoKQq4jY=",
                         "News Classification System", 
                         "Team Leader, Data Scientist", 
-                        "Explore AI Academy", 
                         "Built a machine learning-based news classification system to categorize articles for a news outlet.", 
                         "Natural Language Processing (NLP), classification algorithms (SVM, Naive Bayes, etc), Python (NLTK, scikit-learn).", 
                         "Deployed three models that enhanced editorial workflow by automating article categorization. Actionable Insights: Streamlined editorial processes, improving efficiency and content management.",
@@ -418,18 +418,28 @@ preprocessing, model development, and insight generation.
             project_box("https://i.pinimg.com/originals/d3/14/d7/d314d775cac76cee6dbf27931b5fee9a.png",
                         "Anime Recommender System",
                         "Team Leader, Data Scientist", 
-                        "Explore AI Academy", 
                         "Developed a highly accurate and user-centric recommender system that provides fans with relevant and engaging anime recommendations.", 
                         "Collaborative filtering, content-based filtering, Python (scikit-learn, pandas, Streamlit).", 
                         "Designed and evaluated the system using Root Mean Square Error (RMSE) to ensure high accuracy and user satisfaction.", 
                         "https://github.com/01Kamo/Anime-Recommender-System.git",
                         button_key="anime_project_button")
+
+	# Project 4: Height Segmentation Model
+        col4, col5 = st.columns(2)
+        with col4:
+            project_box("https://media.istockphoto.com/id/1290305231/photo/network-connection-telecommunication-to-the-city.jpg?s=612x612&w=0&k=20&c=3fhCsP6fDwIfFNopcMqR3SMGKHWtccxnYq9rE_nwDkY=",
+                        "Height Segmentation Model",
+                        "Data Scientist", 
+                        "Built a robust model to estimate building heights and segment urban areas to enhance telecommunications planning, leveraging satellite imagery and LiDAR data.", 
+                        "Data preprocessing, binary segmentation, height estimation, convolutional neural networks (CNN), U-Net, TensorFlow.", 
+                        "Improved segmentation accuracy and height estimation precision to support efficient telecommunications network deployment and optimization.", 
+                        "https://geoseg.streamlit.app/",)
     # Build out the contact page
     elif selected_option == "Contact":
             
         st.title("Contact Me")
         st.write("""
-    **I’d love to hear from you!** Whether you have questions, opportunities, or just want to connect, feel free to reach out using the contact details below. I'm always open to discussing exciting projects, collaborations, or any other opportunities.
+    **I would love to hear from you!** Whether you have questions, opportunities, or just want to connect, feel free to reach out using the contact details below. I'm always open to discussing exciting projects, collaborations, or any other opportunities.
     """)
     # Display contact details with icons
         st.subheader("Contact Details")
