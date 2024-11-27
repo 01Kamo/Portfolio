@@ -140,7 +140,7 @@ def main():
         - **Machine Learning:** Skilled in developing predictive models and classification systems.
         - **Data Analysis:** Expertise in regression analysis, feature engineering, and statistical modeling.
         - **Natural Language Processing (NLP):** Proficient in text processing and classification tasks.
-        - **Technical Proficiency:** Python, scikit-learn, pandas, NLTK.
+        - **Technical Proficiency:** Python, scikit-learn, pandas, NLTK,Computer Vision.
         """)
         
         # Value Proposition
@@ -341,11 +341,16 @@ def main():
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNZ-oA857LBER7nEhPzLXCmLyIfHwbhRV4w&s" alt="Sand Technologies Logo" />
    <div>
    <strong>Sand Technologies</strong><br />
-   Data Science Intern(September 2024 - November 2024)<br /> - Collaborating on the development and deployment of machine learning models to solve real-world business problems.
-   - Conducting data cleaning, preprocessing, and exploratory data analysis to uncover key insights and trends.
-   - Leveraging Python, MySQL, and PowerBI for data wrangling, statistical analysis, and visualization of complex datasets.
-   -Implementing predictive analytics and statistical modeling to support data-driven decision-making.
-   - Contributing to the automation of data pipelines and optimization of machine learning workflows.
+   Data Science Intern(September 2024 - November 2024)<br /> - Collaborating with a distributed team to tackle real-world data science challenges, utilizing tools such as
+Discord, Zoom, and cloud platforms for effective communication and teamwork.
+
+   - Contributing to the automation of data processes, which has led to improved efficiency and streamlined
+workflows through the use of cloud-based technologies.
+   - Collaborating with data engineers and stakeholders to develop solutions, share insights, and refine
+machine learning models.
+   -Utilize version control (Git) to manage code across remote teams.
+   - Applying Python, and machine learning libraries (including TensorFlow and scikit-learn) for data
+preprocessing, model development, and insight generation.
    
    
    </div>
